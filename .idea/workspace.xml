@@ -3,6 +3,36 @@
   <component name="ChangeListManager">
     <list default="true" id="01058280-3d0f-4b61-ae06-ae0735f3de2f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/10.73418fc7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/11.fe9d1f58.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/13.ce886a8a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/14.27d15856.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/15.50e8a723.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/16.7246849a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/17.3d2ca4ad.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/18.b1e60535.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/19.4f4665c0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/app.80f37c13.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blogs/category1/2018/121501.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blogs/category1/2018/121501.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blogs/category1/2019/092101.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blogs/category1/2019/092101.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blogs/category2/2016/121501.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blogs/category2/2016/121501.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blogs/category2/2017/092101.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blogs/category2/2017/092101.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blogs/other/guide.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blogs/other/guide.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/category1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/category1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/category2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/category2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/docs/theme-reco/api.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/theme-reco/api.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/docs/theme-reco/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/theme-reco/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/docs/theme-reco/plugin.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/theme-reco/plugin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/docs/theme-reco/theme.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/theme-reco/theme.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tag/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tag/tag1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag/tag1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tag/tag2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag/tag2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tag/tag3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag/tag3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tag/tag4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag/tag4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/timeline/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/timeline/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +73,7 @@
       <updated>1628430863996</updated>
       <workItem from="1628430865023" duration="2234000" />
       <workItem from="1628433785940" duration="2603000" />
-      <workItem from="1628480844777" duration="3560000" />
+      <workItem from="1628480844777" duration="4997000" />
     </task>
     <servers />
   </component>
