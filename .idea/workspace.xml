@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01058280-3d0f-4b61-ae06-ae0735f3de2f" name="Default Changelist" comment="" />
+    <list default="true" id="01058280-3d0f-4b61-ae06-ae0735f3de2f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/category1/2018/121501.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/category1/2019/092101.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/2019/092101.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/category2/2016/121501.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/category2/2017/092101.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,12 +31,17 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blogs/2019" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blogs/2019" />
+      <recent name="$PROJECT_DIR$/docs/mydoc" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blogs" />
       <recent name="$PROJECT_DIR$/.github" />
     </key>
   </component>
@@ -41,7 +55,12 @@
       <updated>1628430863996</updated>
       <workItem from="1628430865023" duration="2234000" />
       <workItem from="1628433785940" duration="2603000" />
-      <workItem from="1628480844777" duration="6824000" />
+      <workItem from="1628480844777" duration="14866000" />
+      <workItem from="1628663401638" duration="1267000" />
+      <workItem from="1628939278375" duration="2918000" />
+      <workItem from="1629172403152" duration="896000" />
+      <workItem from="1629284688642" duration="4605000" />
+      <workItem from="1629512094474" duration="11000" />
     </task>
     <servers />
   </component>
@@ -52,6 +71,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="427" y="66" key="#JSON" timestamp="1629022874013">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="427" y="66" key="#JSON/0.23.1440.816@0.23.1440.816" timestamp="1629022874013" />
     <state width="1414" height="197" key="GridCell.Tab.0.bottom" timestamp="1628433564879">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
@@ -68,9 +91,13 @@
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state width="1414" height="197" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1628433564879" />
-    <state x="438" y="335" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1628480926051">
+    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1628694655683">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state x="438" y="335" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.816@0.23.1440.816" timestamp="1628480926051" />
+    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1628694655683" />
+    <state x="438" y="335" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1629173571673">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="438" y="335" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.816@0.23.1440.816" timestamp="1629173571673" />
   </component>
 </project>

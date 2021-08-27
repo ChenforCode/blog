@@ -1,6 +1,7 @@
 module.exports = {
-    "title": "blog",
-    "description": "博客",
+    //加载页标题内容
+    "title": "雨幕",
+    "description": "我从潇潇的雨幕里，遥望漉雪千山都过尽",
     "dest": "public",
     "base": "/blog/",
     "head": [
@@ -20,27 +21,33 @@ module.exports = {
         ]
     ],
     "theme": "reco",
+    //导航栏
     "themeConfig": {
         "nav": [
             {
-                "text": "Home",
+                "text": "主页",
                 "link": "/",
                 "icon": "reco-home"
             },
+            //这个地方是加有大类型的doc，需要在这里注册导航
             {
-                "text": "TimeLine",
-                "link": "/timeline/",
-                "icon": "reco-date"
-            },
-            {
-                "text": "Docs",
+                "text": "文档",
                 "icon": "reco-message",
                 "items": [
                     {
                         "text": "vuepress-reco",
                         "link": "/docs/theme-reco/"
+                    },
+                    {
+                        "text": "mydoc",
+                        "link": "/docs/mydoc/"
                     }
                 ]
+            },
+            {
+                "text": "TimeLine",
+                "link": "/timeline/",
+                "icon": "reco-date"
             },
             {
                 "text": "Contact",
@@ -55,36 +62,40 @@ module.exports = {
             }
         ],
         "sidebar": {
+            //这里是对每一个大类型的导航，内部注册有多少篇文档，每个文档都需要注册
             "/docs/theme-reco/": [
-                "",
                 "theme",
                 "plugin",
                 "api"
+            ],
+            "/docs/mydoc/": [
+                "doc2"
             ]
+
         },
         "type": "blog",
         "blogConfig": {
             "category": {
                 "location": 2,
-                "text": "Category"
+                "text": "博客"
             },
             "tag": {
-                "location": 3,
-                "text": "Tag"
-            }
+                "location": 5,
+                "text": "标签"
+            },
         },
         "friendLink": [
             {
-                "title": "午后南杂",
-                "desc": "Enjoy when you can, and endure when you must.",
-                "email": "1156743527@qq.com",
-                "link": "https://www.recoluan.com"
+                "title": "pkucoder",
+                "desc": "made it",
+                "email": "chenforcode@stu.pku.edu.cn",
+                "link": "http://www.chenforcode.cn"
             },
             {
-                "title": "vuepress-theme-reco",
-                "desc": "A simple and beautiful vuepress Blog & Doc theme.",
-                "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-                "link": "https://vuepress-theme-reco.recoluan.com"
+                "title": "gitee",
+                "desc": "gitee",
+                // "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
+                "link": "https://gitee.com/chenforcode"
             }
         ],
         "logo": "/logo.png",
