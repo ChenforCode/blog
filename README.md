@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 雨幕
+heroText:
 tagline: 我从潇潇的雨幕里，遥望漉雪千山都过尽
 # heroImage: /hero.png
 # heroImageStyle: {

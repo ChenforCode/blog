@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01058280-3d0f-4b61-ae06-ae0735f3de2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blogs/PrivateRecord/研二上半年规划.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,15 +30,16 @@
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blogs/PrivateRecord" />
+      <recent name="$PROJECT_DIR$/blogs/2021" />
+      <recent name="$PROJECT_DIR$/blogs/2019" />
+      <recent name="$PROJECT_DIR$/docs/mydoc" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/blogs/leetcode" />
       <recent name="$PROJECT_DIR$/blogs" />
       <recent name="$PROJECT_DIR$/.github" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/blogs/2021" />
-      <recent name="$PROJECT_DIR$/blogs/2019" />
-      <recent name="$PROJECT_DIR$/docs/mydoc" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,7 +62,7 @@
       <workItem from="1630132191121" duration="438000" />
       <workItem from="1630132714627" duration="495000" />
       <workItem from="1630133310011" duration="36000" />
-      <workItem from="1635582536718" duration="371000" />
+      <workItem from="1635582536718" duration="923000" />
     </task>
     <servers />
   </component>
