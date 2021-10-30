@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="01058280-3d0f-4b61-ae06-ae0735f3de2f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/leetcode/295_数据流的中位数.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/leetcode/295_数据流的中位数.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +24,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/blogs/2021" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blogs/PrivateRecord" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
@@ -59,6 +58,9 @@
       <workItem from="1629512094474" duration="11000" />
       <workItem from="1630073842273" duration="760000" />
       <workItem from="1630132191121" duration="438000" />
+      <workItem from="1630132714627" duration="495000" />
+      <workItem from="1630133310011" duration="36000" />
+      <workItem from="1635582536718" duration="371000" />
     </task>
     <servers />
   </component>
