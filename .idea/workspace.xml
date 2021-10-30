@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01058280-3d0f-4b61-ae06-ae0735f3de2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blogs/PrivateRecord/研二上半年规划.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/PrivateRecord/研二上半年规划.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/PrivateRecord/test.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +64,7 @@
       <workItem from="1630132191121" duration="438000" />
       <workItem from="1630132714627" duration="495000" />
       <workItem from="1630133310011" duration="36000" />
-      <workItem from="1635582536718" duration="923000" />
+      <workItem from="1635582536718" duration="2147000" />
     </task>
     <servers />
   </component>
