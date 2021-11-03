@@ -8,7 +8,8 @@
     },
     "devDependencies": {
         "vuepress": "1.8.2",
-        "vuepress-theme-reco": "1.6.6"
+        "vuepress-theme-reco": "1.6.6",
+        "vue-router": "3.5.2"
     },
     "description": "博客"
 }
