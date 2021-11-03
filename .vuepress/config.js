@@ -92,9 +92,13 @@ module.exports = {
                 "link": "http://www.chenforcode.cn"
             },
             {
+                "title": "github",
+                "desc": "github",
+                "link": "https://github.com/ChenforCode"
+            },
+            {
                 "title": "gitee",
                 "desc": "gitee",
-                // "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
                 "link": "https://gitee.com/chenforcode"
             }
         ],
@@ -105,7 +109,7 @@ module.exports = {
         "author": "chenforcode",
         "authorAvatar": "/avatar.png",
         "record": "xxxx",
-        "startYear": "2017"
+        "startYear": "2019"
     },
     "markdown": {
         "lineNumbers": true

@@ -2,8 +2,8 @@
 title: 2019年终总结
 date: '2020-04-06'
 tags:
- - 年终总结
  - 随笔
+ - 年终总结
  - Record
 categories:
  - Record
