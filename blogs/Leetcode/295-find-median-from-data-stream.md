@@ -2,9 +2,9 @@
 title: 295. 数据流的中位数
 date: 2021-08-27
 tags:
- - leetcode
+ - Leetcode
 categories:
- - leetcode
+ - Leetcode
 ---
 
 > 中位数是有序列表中间的数。如果列表长度是偶数，中位数则是中间两个数的平均值。

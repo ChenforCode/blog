@@ -1,12 +1,11 @@
 ---
 title: 过滤器，事件，插槽与父子组件传递
-date: '2019-10-26 14:11:40'
-updated: '2019-11-06 20:44:59'
+date: 2019-10-26
 tags:
- - vue
- - vue-cart系列
+ - Vue
+ - VueCart系列
 categories:
-- 2019/201910
+ - VueCart
 ---
 
 1.编写editCart函数，使得能够修改商品数量和选中状态。
