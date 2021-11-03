@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="01058280-3d0f-4b61-ae06-ae0735f3de2f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/Java/C/cc-concept.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Java/C/cc-concept.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/Java/Hompage/Homepage-3-common.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Java/Hompage/Homepage-3-common.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/Leetcode/2021-1-24-2021-1-28-solve.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Leetcode/2021-1-24-2021-1-28-solve.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +66,7 @@
       <workItem from="1630133310011" duration="36000" />
       <workItem from="1635582536718" duration="2549000" />
       <workItem from="1635857172532" duration="249000" />
-      <workItem from="1635857435794" duration="12251000" />
+      <workItem from="1635857435794" duration="13414000" />
     </task>
     <servers />
   </component>
@@ -108,9 +105,10 @@
       <screen x="0" y="23" width="1280" height="723" />
     </state>
     <state x="100" y="123" width="1080" height="523" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1280.723@0.23.1280.723" timestamp="1630132629974" />
-    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1628694655683">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state x="268" y="23" width="838" height="916" key="search.everywhere.popup" timestamp="1635933570368">
+      <screen x="0" y="23" width="1280" height="724" />
     </state>
+    <state x="268" y="23" width="838" height="916" key="search.everywhere.popup/0.23.1280.724@0.23.1280.724" timestamp="1635933570368" />
     <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1628694655683" />
     <state x="438" y="335" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1629173571673">
       <screen x="0" y="23" width="1440" height="816" />
