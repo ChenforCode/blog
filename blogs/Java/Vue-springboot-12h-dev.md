@@ -5,6 +5,7 @@ tags:
  - SpringBoot
  - Vue
  - Java
+ - 后端工程师
 categories:
  - Java
 ---
@@ -13,7 +14,7 @@ categories:
 
 一、最近这一段时间，一直有两个兄弟在和我一起学习，是不是的会督促一下，问一下今天学了什么。于是我就想到一个 idea，为啥不做一个 todolist 去记录下每天要做的事情，完成了今天才算过去，大家也可以公开透明看到，互相督促。于是就开始着手做。
 
-二、环境准备，首先本地开发环境为 vue4.0 JDK1.8 maven3.6.2。服务器上的环境为 JDK1.8 MySQL8.0 前端开发用的是 vue，后端开发用 SpringBoot
+二、环境准备，首先本地开发环境为 vue-cli-4.0 JDK1.8 maven3.6.2。服务器上的环境为 JDK1.8 MySQL8.0 前端开发用的是 vue，后端开发用 SpringBoot
 
 三、前端开发：
 

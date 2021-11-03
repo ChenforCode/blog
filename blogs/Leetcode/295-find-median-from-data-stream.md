@@ -3,6 +3,7 @@ title: 295. 数据流的中位数
 date: 2021-08-27
 tags:
  - Leetcode
+ - 算法
 categories:
  - Leetcode
 ---

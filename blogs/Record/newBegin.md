@@ -1,7 +1,9 @@
+---
 title: 记一个新的开始
 date: 2019-10-31
 tags:
  - 随笔
+ - Record
 categories:
  - Record
 ---

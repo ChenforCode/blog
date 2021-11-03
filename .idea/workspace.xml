@@ -3,6 +3,44 @@
   <component name="ChangeListManager">
     <list default="true" id="01058280-3d0f-4b61-ae06-ae0735f3de2f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/C/cc-concept.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/C/cc-concept.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/Guide/Git-guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Guide/Git-guide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/Guide/Redis-install-guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Guide/Redis-install-guide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/Hompage/Homepage-1-EurekaServer-dev.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/Hompage/Homepage-1-EurekaServer-dev.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/Hompage/Homepage-2-Gateway.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/Hompage/Homepage-2-Gateway.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/Hompage/Homepage-3-common.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/Hompage/Homepage-3-common.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/Hompage/Homepage-4-serviceImpl-test.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/Hompage/Homepage-4-serviceImpl-test.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/Hompage/Homepage-5-userService.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/Hompage/Homepage-5-userService.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/Hompage/Homepage-6-userService-test.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/Hompage/Homepage-6-userService-test.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/Hompage/Homepage-7-test.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/Hompage/Homepage-7-test.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/JVD/TabbyAnalysis.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/JVD/TabbyAnalysis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/Java-review.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Java/Java-review.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/MiniSpring/Minispring-1-spring-structure-build.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/MiniSpring/Minispring-1-spring-structure-build.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/MiniSpring/Minispring-2-integrate-tomcat.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/MiniSpring/Minispring-2-integrate-tomcat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/MiniSpring/Minispring-3-mvc.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/MiniSpring/Minispring-3-mvc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/MiniSpring/Minispring-4-classScanner-init.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/MiniSpring/Minispring-4-classScanner-init.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/MiniSpring/Minispring-5-bean-manage.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/MiniSpring/Minispring-5-bean-manage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/MiniSpring/Minispring-6-debug.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/MiniSpring/Minispring-6-debug.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/SpringBoot-upload-filesize-limit.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Java/SpringBoot-upload-filesize-limit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/SpringCloud-concept.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Java/SpringCloud-concept.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/VoiceCare-remake.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Java/VoiceCare-remake.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/Vue-springboot-12h-dev.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Java/Vue-springboot-12h-dev.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/VueCart/VueCart-0-basic.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/VueCart/VueCart-0-basic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/VueCart/VueCart-1-component-split.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/VueCart/VueCart-1-component-split.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/VueCart/VueCart-2-cart-draw.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/VueCart/VueCart-2-cart-draw.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/VueCart/VueCart-3-filter-component.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/VueCart/VueCart-3-filter-component.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/VueCart/VueCart-4-component2.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/VueCart/VueCart-4-component2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/VueCart/VueCart-5-compute.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/VueCart/VueCart-5-compute.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/VueCart/VueCart-6-compute2.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/VueCart/VueCart-6-compute2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/VueCart/VueCart-7-design-list-cart.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/VueCart/VueCart-7-design-list-cart.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Leetcode/2021-1-24-2021-1-28-solve.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Leetcode/2021-1-24-2021-1-28-solve.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Leetcode/295-find-median-from-data-stream.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Leetcode/295-find-median-from-data-stream.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Record/2019-final-summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Record/2019-final-summary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Record/2020-final-summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Record/2020-final-summary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Record/202002-memoir.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Record/202002-memoir.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Record/202110-plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Record/202110-plan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Record/newBegin.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Record/newBegin.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/other/guide.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,24 +62,24 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/blogs/PrivateRecord" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blogs/Interview" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blogs/Project" />
+      <recent name="$PROJECT_DIR$/blogs" />
+      <recent name="$PROJECT_DIR$/blogs/Record" />
+      <recent name="$PROJECT_DIR$/blogs/Java/Guide" />
+      <recent name="$PROJECT_DIR$/blogs/Java/VueCart" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blogs/Interview" />
       <recent name="$PROJECT_DIR$/blogs/PrivateRecord" />
       <recent name="$PROJECT_DIR$/blogs" />
       <recent name="$PROJECT_DIR$/blogs/JVD" />
       <recent name="$PROJECT_DIR$/blogs/2021" />
-      <recent name="$PROJECT_DIR$/blogs/2019" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/blogs/Java/Guide" />
-      <recent name="$PROJECT_DIR$/blogs/Java/VueCart" />
-      <recent name="$PROJECT_DIR$/blogs/Java/C" />
-      <recent name="$PROJECT_DIR$/blogs/Java/MiniSpring" />
-      <recent name="$PROJECT_DIR$/blogs/Java" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -66,7 +104,8 @@
       <workItem from="1630133310011" duration="36000" />
       <workItem from="1635582536718" duration="2549000" />
       <workItem from="1635857172532" duration="249000" />
-      <workItem from="1635857435794" duration="13414000" />
+      <workItem from="1635857435794" duration="14091000" />
+      <workItem from="1635939827478" duration="1691000" />
     </task>
     <servers />
   </component>
@@ -81,25 +120,25 @@
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="427" y="66" key="#JSON/0.23.1440.816@0.23.1440.816" timestamp="1629022874013" />
-    <state width="1254" height="166" key="GridCell.Tab.0.bottom" timestamp="1635906596813">
+    <state width="1254" height="166" key="GridCell.Tab.0.bottom" timestamp="1635939822449">
       <screen x="0" y="23" width="1280" height="724" />
     </state>
-    <state width="1254" height="166" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1635906596813" />
+    <state width="1254" height="166" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1635939822449" />
     <state width="1414" height="197" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1628433564879" />
-    <state width="1254" height="166" key="GridCell.Tab.0.center" timestamp="1635906596812">
+    <state width="1254" height="166" key="GridCell.Tab.0.center" timestamp="1635939822448">
       <screen x="0" y="23" width="1280" height="724" />
     </state>
-    <state width="1254" height="166" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1635906596812" />
+    <state width="1254" height="166" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1635939822448" />
     <state width="1414" height="197" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1628433564878" />
-    <state width="1254" height="166" key="GridCell.Tab.0.left" timestamp="1635906596812">
+    <state width="1254" height="166" key="GridCell.Tab.0.left" timestamp="1635939822445">
       <screen x="0" y="23" width="1280" height="724" />
     </state>
-    <state width="1254" height="166" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1635906596812" />
+    <state width="1254" height="166" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1635939822445" />
     <state width="1414" height="197" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1628433564878" />
-    <state width="1254" height="166" key="GridCell.Tab.0.right" timestamp="1635906596812">
+    <state width="1254" height="166" key="GridCell.Tab.0.right" timestamp="1635939822449">
       <screen x="0" y="23" width="1280" height="724" />
     </state>
-    <state width="1254" height="166" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1635906596812" />
+    <state width="1254" height="166" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1635939822449" />
     <state width="1414" height="197" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1628433564879" />
     <state x="100" y="123" width="1080" height="523" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1630132629974">
       <screen x="0" y="23" width="1280" height="723" />
