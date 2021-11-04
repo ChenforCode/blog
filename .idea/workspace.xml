@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="01058280-3d0f-4b61-ae06-ae0735f3de2f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/Project/VueCart/VueCart-1-component-split.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Project/VueCart/VueCart-1-component-split.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/Record/2019-final-summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Record/2019-final-summary.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +24,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/blogs/Interview" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.vuepress/public" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
@@ -40,11 +37,11 @@
       <recent name="$PROJECT_DIR$/blogs/Java/VueCart" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.vuepress/public" />
       <recent name="$PROJECT_DIR$/blogs/Interview" />
       <recent name="$PROJECT_DIR$/blogs/PrivateRecord" />
       <recent name="$PROJECT_DIR$/blogs" />
       <recent name="$PROJECT_DIR$/blogs/JVD" />
-      <recent name="$PROJECT_DIR$/blogs/2021" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -70,7 +67,7 @@
       <workItem from="1635582536718" duration="2549000" />
       <workItem from="1635857172532" duration="249000" />
       <workItem from="1635857435794" duration="14091000" />
-      <workItem from="1635939827478" duration="4214000" />
+      <workItem from="1635939827478" duration="4861000" />
     </task>
     <servers />
   </component>
@@ -109,10 +106,10 @@
       <screen x="0" y="23" width="1280" height="723" />
     </state>
     <state x="100" y="123" width="1080" height="523" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1280.723@0.23.1280.723" timestamp="1630132629974" />
-    <state x="268" y="23" width="838" height="916" key="search.everywhere.popup" timestamp="1635933570368">
+    <state x="268" y="23" width="838" height="916" key="search.everywhere.popup" timestamp="1635944331613">
       <screen x="0" y="23" width="1280" height="724" />
     </state>
-    <state x="268" y="23" width="838" height="916" key="search.everywhere.popup/0.23.1280.724@0.23.1280.724" timestamp="1635933570368" />
+    <state x="268" y="23" width="838" height="916" key="search.everywhere.popup/0.23.1280.724@0.23.1280.724" timestamp="1635944331613" />
     <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1628694655683" />
     <state x="438" y="335" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1629173571673">
       <screen x="0" y="23" width="1440" height="816" />
