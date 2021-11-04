@@ -1,6 +1,6 @@
 module.exports = {
     //加载页标题内容
-    "title": "ChenforCode",
+    "title": "",
     "description": "我从潇潇的雨幕里，遥望漉雪千山都过尽",
     "dest": "public",
     "base": "/",
@@ -106,7 +106,7 @@ module.exports = {
         "search": true,
         "searchMaxSuggestions": 10,
         "lastUpdated": "Last Updated",
-        "author": "chenforcode",
+        "author": "ChenforCode",
         "authorAvatar": "/avatar.png",
         "record": "xxxx",
         "startYear": "2019"
