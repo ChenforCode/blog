@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="01058280-3d0f-4b61-ae06-ae0735f3de2f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
       <workItem from="1635582536718" duration="2549000" />
       <workItem from="1635857172532" duration="249000" />
       <workItem from="1635857435794" duration="14091000" />
-      <workItem from="1635939827478" duration="4861000" />
+      <workItem from="1635939827478" duration="6157000" />
     </task>
     <servers />
   </component>
