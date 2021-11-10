@@ -6,7 +6,7 @@ tags:
  - VueCart系列
  - Project
 categories:
- - VueCart
+ - Project
 ---
 
 1.编写editCart函数，使得能够修改商品数量和选中状态。
