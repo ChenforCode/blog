@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01058280-3d0f-4b61-ae06-ae0735f3de2f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/Java/SpringCloud/Oauth2.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Java/SpringCloud/Oauth2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/theme-reco/doc1.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,24 +28,24 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.vuepress/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/mydoc" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/.vuepress/public" />
-      <recent name="$PROJECT_DIR$/blogs/Interview" />
-      <recent name="$PROJECT_DIR$/blogs/PrivateRecord" />
-      <recent name="$PROJECT_DIR$/blogs" />
-      <recent name="$PROJECT_DIR$/blogs/JVD" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/blogs/Java/SpringCloud" />
       <recent name="$PROJECT_DIR$/blogs/Project" />
       <recent name="$PROJECT_DIR$/blogs" />
       <recent name="$PROJECT_DIR$/blogs/Record" />
       <recent name="$PROJECT_DIR$/blogs/Java/Guide" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/mydoc" />
+      <recent name="$PROJECT_DIR$/.vuepress/public" />
+      <recent name="$PROJECT_DIR$/blogs/Interview" />
+      <recent name="$PROJECT_DIR$/blogs/PrivateRecord" />
+      <recent name="$PROJECT_DIR$/blogs" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -71,7 +75,7 @@
       <workItem from="1636023452259" duration="641000" />
       <workItem from="1636461776816" duration="3557000" />
       <workItem from="1636687175242" duration="1439000" />
-      <workItem from="1636876820526" duration="1834000" />
+      <workItem from="1636876820526" duration="4742000" />
     </task>
     <servers />
   </component>

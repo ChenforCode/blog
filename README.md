@@ -2,8 +2,8 @@
 home: true
 heroText:
 tagline: 我从潇潇的雨幕里，遥望漉雪千山都过尽
-# heroImage: /hero.png
-# heroImageStyle: {
+#heroImage: /hero.png
+#heroImageStyle: {
 #   maxWidth: '600px',
 #   width: '100%',
 #   display: block,
