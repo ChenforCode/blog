@@ -35,12 +35,8 @@ module.exports = {
                 "icon": "reco-message",
                 "items": [
                     {
-                        "text": "vuepress-reco",
-                        "link": "/docs/theme-reco/"
-                    },
-                    {
-                        "text": "mydoc",
-                        "link": "/docs/mydoc/"
+                        "text": "Java工具文档",
+                        "link": "/docs/Java-Tool-Guide/"
                     }
                 ]
             },
@@ -68,13 +64,10 @@ module.exports = {
         ],
         "sidebar": {
             //这里是对每一个大类型的导航，内部注册有多少篇文档，每个文档都需要注册
-            "/docs/theme-reco/": [
-                "theme",
-                "plugin",
-                "api"
-            ],
-            "/docs/mydoc/": [
-                "doc2"
+            "/docs/Java-Tool-Guide/": [
+                "doc2",
+                "Git-guide",
+                "Redis-install-guide"
             ]
 
         },
@@ -113,8 +106,9 @@ module.exports = {
             repo: 'vssue-comments',
             clientId: '490c42c831c7c1ea4508',
             clientSecret: '12b63f7bc3bc090086a12637d8978a29b289b325',
-            autoCreateIssue: false
+            autoCreateIssue: true
         },
+        codeTheme: 'tomorrow',
         "logo": "/logo.png",
         "search": true,
         "searchMaxSuggestions": 10,
