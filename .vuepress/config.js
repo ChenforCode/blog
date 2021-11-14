@@ -55,10 +55,15 @@ module.exports = {
                 "items": [
                     {
                         "text": "GitHub",
-                        "link": "https://github.com/recoluan",
+                        "link": "https://github.com/ChenforCode",
                         "icon": "reco-github"
+                    },
+                    {
+                        "text": "Gitee",
+                        "link": "https://gitee.com/chenforcode",
+                        "icon": "reco-mayun"
                     }
-                ]
+                ],
             }
         ],
         "sidebar": {
@@ -102,6 +107,13 @@ module.exports = {
                 "link": "https://gitee.com/chenforcode"
             }
         ],
+        vssueConfig: {
+            platform: 'github',
+            owner: 'ChenforCode',
+            repo: 'chenforcode-vssue',
+            clientId: '490c42c831c7c1ea4508',
+            clientSecret: '12b63f7bc3bc090086a12637d8978a29b289b325',
+        },
         "logo": "/logo.png",
         "search": true,
         "searchMaxSuggestions": 10,
