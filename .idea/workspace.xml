@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="01058280-3d0f-4b61-ae06-ae0735f3de2f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Java-Tool-Guide/doc2.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,25 +33,25 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/Java-Tool-Guide" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/Soot-Guide" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/Soot-Guide" />
+      <recent name="$PROJECT_DIR$/docs/Java-Tool-Guide" />
+      <recent name="$PROJECT_DIR$/docs/mydoc" />
+      <recent name="$PROJECT_DIR$/.vuepress/public" />
+      <recent name="$PROJECT_DIR$/blogs/Interview" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/blogs/Java/SpringCloud" />
       <recent name="$PROJECT_DIR$/blogs/Project" />
       <recent name="$PROJECT_DIR$/blogs" />
       <recent name="$PROJECT_DIR$/blogs/Record" />
       <recent name="$PROJECT_DIR$/blogs/Java/Guide" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/Java-Tool-Guide" />
-      <recent name="$PROJECT_DIR$/docs/mydoc" />
-      <recent name="$PROJECT_DIR$/.vuepress/public" />
-      <recent name="$PROJECT_DIR$/blogs/Interview" />
-      <recent name="$PROJECT_DIR$/blogs/PrivateRecord" />
     </key>
   </component>
   <component name="RunManager">
@@ -100,6 +102,8 @@
       <workItem from="1636876820526" duration="11227000" />
       <workItem from="1636979950683" duration="12000" />
       <workItem from="1637044737152" duration="1351000" />
+      <workItem from="1637113536427" duration="549000" />
+      <workItem from="1637507797833" duration="306000" />
     </task>
     <servers />
   </component>
