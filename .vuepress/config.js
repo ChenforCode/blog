@@ -73,7 +73,7 @@ module.exports = {
                 "Redis-install-guide"
             ],
             "/docs/Soot-Guide/": [
-                "0-Soot-Introduction.md"
+                "1-Soot-Introduction.md"
             ]
 
         },
