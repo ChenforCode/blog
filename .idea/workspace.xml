@@ -37,19 +37,19 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/Java-Tool-Guide" />
+      <recent name="$PROJECT_DIR$/blogs/Java/SpringCloud" />
+      <recent name="$PROJECT_DIR$/blogs/Project" />
+      <recent name="$PROJECT_DIR$/blogs" />
+      <recent name="$PROJECT_DIR$/blogs/Record" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs/Soot-Guide" />
       <recent name="$PROJECT_DIR$/docs/Java-Tool-Guide" />
       <recent name="$PROJECT_DIR$/docs/mydoc" />
       <recent name="$PROJECT_DIR$/.vuepress/public" />
       <recent name="$PROJECT_DIR$/blogs/Interview" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/blogs/Java/SpringCloud" />
-      <recent name="$PROJECT_DIR$/blogs/Project" />
-      <recent name="$PROJECT_DIR$/blogs" />
-      <recent name="$PROJECT_DIR$/blogs/Record" />
-      <recent name="$PROJECT_DIR$/blogs/Java/Guide" />
     </key>
   </component>
   <component name="RunManager">
@@ -103,6 +103,7 @@
       <workItem from="1637113536427" duration="549000" />
       <workItem from="1637507797833" duration="1581000" />
       <workItem from="1637828475380" duration="130000" />
+      <workItem from="1637914111818" duration="670000" />
     </task>
     <servers />
   </component>
