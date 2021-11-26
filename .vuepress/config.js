@@ -37,10 +37,6 @@ module.exports = {
                     {
                         "text": "Java工具文档",
                         "link": "/docs/Java-Tool-Guide/"
-                    },
-                    {
-                        "text": "Soot工具文档",
-                        "link": "/docs/Soot-Guide/"
                     }
                 ]
             },
@@ -70,12 +66,10 @@ module.exports = {
             //这里是对每一个大类型的导航，内部注册有多少篇文档，每个文档都需要注册
             "/docs/Java-Tool-Guide/": [
                 "Git-guide",
-                "Redis-install-guide"
+                "Redis-install-guide",
+                "Soot-0-Soot-Guide",
+                "Soot-1-Introduction"
             ],
-            "/docs/Soot-Guide/": [
-                "1-Soot-Introduction.md"
-            ]
-
         },
         "type": "blog",
         "blogConfig": {
