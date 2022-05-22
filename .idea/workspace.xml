@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01058280-3d0f-4b61-ae06-ae0735f3de2f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1wRofHZALF2cgoI8UfAAgK4i3TJ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -27,16 +31,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/Soot-Guide" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/pkucoder/projects/webp/blog/blogs/Eth&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pkucoder\projects\webp\blog\blogs\Eth" />
+      <recent name="$PROJECT_DIR$/docs/Soot-Guide" />
+      <recent name="$PROJECT_DIR$/docs/Java-Tool-Guide" />
+      <recent name="$PROJECT_DIR$/docs/mydoc" />
+      <recent name="$PROJECT_DIR$/.vuepress/public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs/Java-Tool-Guide" />
       <recent name="$PROJECT_DIR$/blogs/Java/SpringCloud" />
@@ -44,16 +56,10 @@
       <recent name="$PROJECT_DIR$/blogs" />
       <recent name="$PROJECT_DIR$/blogs/Record" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/Soot-Guide" />
-      <recent name="$PROJECT_DIR$/docs/Java-Tool-Guide" />
-      <recent name="$PROJECT_DIR$/docs/mydoc" />
-      <recent name="$PROJECT_DIR$/.vuepress/public" />
-      <recent name="$PROJECT_DIR$/blogs/Interview" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration name="test.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_TEXT" value="" />
       <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
       <option name="SCRIPT_PATH" value="$PROJECT_DIR$/test.sh" />
       <option name="SCRIPT_OPTIONS" value="" />
@@ -62,6 +68,9 @@
       <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
       <option name="INTERPRETER_PATH" value="/bin/zsh" />
       <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -106,6 +115,9 @@
       <workItem from="1637914111818" duration="1811000" />
       <workItem from="1642764432996" duration="555000" />
       <workItem from="1648288521894" duration="1748000" />
+      <workItem from="1651291971491" duration="106000" />
+      <workItem from="1653104159971" duration="2585000" />
+      <workItem from="1653218096606" duration="315000" />
     </task>
     <servers />
   </component>
