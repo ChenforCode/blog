@@ -23,6 +23,7 @@ module.exports = {
     "theme": "reco",
     //导航栏
     "themeConfig": {
+        'subSidebar': 'auto',
         "nav": [
             {
                 "text": "主页",
