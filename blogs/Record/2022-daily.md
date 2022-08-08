@@ -9,7 +9,6 @@ categories:
  - Record
 keys:
  - '37e0ca027ae5e02e8af2f23a6be52325'
-author: Chenfor
 ---
 
 ## 不忘初心，砥砺前行
