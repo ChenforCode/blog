@@ -7,9 +7,12 @@
         "build": "vuepress build ."
     },
     "devDependencies": {
+        "vue-router": "3.5.2",
         "vuepress": "1.8.2",
-        "vuepress-theme-reco": "1.6.14",
-        "vue-router": "3.5.2"
+        "vuepress-theme-reco": "1.6.14"
     },
-    "description": "博客"
+    "description": "博客",
+    "dependencies": {
+        "moment": "^2.29.4"
+    }
 }

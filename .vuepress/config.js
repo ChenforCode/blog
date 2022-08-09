@@ -1,6 +1,7 @@
+const moment = require("moment");
 module.exports = {
     //加载页标题内容
-    "title": "",
+    "title": "ChenforCode",
     "description": "我从潇潇的雨幕里，遥望漉雪千山都过尽",
     "dest": "public",
     "base": "/",
@@ -86,9 +87,8 @@ module.exports = {
         "friendLink": [
             {
                 "title": "pkucoder",
-                "desc": "made it",
-                "email": "chenforcode@stu.pku.edu.cn",
-                "link": "http://www.chenforcode.cn"
+                "desc": "pkusde@gmail.com",
+                "link": "http://blog.chenforcode.cn"
             },
             {
                 "title": "github",
@@ -101,14 +101,14 @@ module.exports = {
                 "link": "https://gitee.com/chenforcode"
             }
         ],
-        vssueConfig: {
-            platform: 'github',
-            owner: 'ChenforCode',
-            repo: 'vssue-comments',
-            clientId: '490c42c831c7c1ea4508',
-            clientSecret: '12b63f7bc3bc090086a12637d8978a29b289b325',
-            autoCreateIssue: true
-        },
+        // vssueConfig: {
+        //     platform: 'github',
+        //     owner: 'ChenforCode',
+        //     repo: 'vssue-comments',
+        //     clientId: '490c42c831c7c1ea4508',
+        //     clientSecret: '12b63f7bc3bc090086a12637d8978a29b289b325',
+        //     autoCreateIssue: true
+        // },
         codeTheme: 'tomorrow',
         "logo": "/logo.png",
         "search": true,
@@ -121,5 +121,22 @@ module.exports = {
     },
     "markdown": {
         "lineNumbers": true
-    }
+    },
+    locales: {
+        "/": {
+            lang: "zh-CN", // 仅供参考，具体 lang 配置根据自己需求定义
+        },
+    },
+    plugins: [
+        // 文章最后更新时间转换
+        [
+            "@vuepress/last-updated",
+            {
+                transformer: (timestamp, lang) => {
+                    moment.locale(lang);
+                    return moment(timestamp).format("YYYY-MM-DD HH:mm:ss");
+                },
+            },
+        ],
+    ]
 }
