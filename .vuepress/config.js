@@ -101,14 +101,14 @@ module.exports = {
                 "link": "https://gitee.com/chenforcode"
             }
         ],
-        // vssueConfig: {
-        //     platform: 'github',
-        //     owner: 'ChenforCode',
-        //     repo: 'vssue-comments',
-        //     clientId: '490c42c831c7c1ea4508',
-        //     clientSecret: '12b63f7bc3bc090086a12637d8978a29b289b325',
-        //     autoCreateIssue: true
-        // },
+        vssueConfig: {
+            platform: 'github',
+            owner: 'ChenforCode',
+            repo: 'vssue-comments',
+            clientId: '490c42c831c7c1ea4508',
+            clientSecret: '12b63f7bc3bc090086a12637d8978a29b289b325',
+            autoCreateIssue: true
+        },
         codeTheme: 'tomorrow',
         "logo": "/logo.png",
         "search": true,
