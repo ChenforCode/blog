@@ -15,5 +15,6 @@
     "dependencies": {
         "@vuepress/core": "^1.9.10",
         "moment": "^2.29.4"
-    }
+    },
+    "start": "export NODE_OPTIONS=--openssl-legacy-provider"
 }
