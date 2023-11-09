@@ -13,6 +13,7 @@
     },
     "description": "博客",
     "dependencies": {
+        "@vuepress/core": "^1.9.10",
         "moment": "^2.29.4"
     }
 }
